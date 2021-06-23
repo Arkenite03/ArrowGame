@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Mr. Bow 2.0"
